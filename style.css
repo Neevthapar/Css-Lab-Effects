@@ -1,0 +1,43 @@
+#button1{
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px 10px rgb(44, 128, 106);
+    opacity: 0.8;
+}
+
+#Mountains{
+    opacity: 0.5;
+    margin-left: 20px;
+    height: 200px;
+    width: 200px;
+    border-radius:100% ;
+    box-shadow: 10px 0px 10px 10px black;
+}
+
+#card{
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+    background-color: aquamarine;
+    box-shadow: 10px 10px 10px 10px black;
+}
+
+#Grad1{
+    background-image: linear-gradient(to right, yellow, blue);
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+}
+
+#Radical1{
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+    background-image: radial-gradient(yellow 30%, green);
+}
+
+p{
+    opacity: 0.8;
+}
